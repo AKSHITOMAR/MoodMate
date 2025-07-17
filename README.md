@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-MoodMate-blue?style=for-the-badge)](https://akshitomar.github.io/MoodMate/)
+
 # 🌟 MoodMate — No More Excuses, Just Encouragement! 💬
 
 > _“Start where you are. Use what you have. Do what you can.” – Arthur Ashe_
@@ -29,12 +31,12 @@ It’s like a pocket-sized pep talk, ready anytime you need a push!
 ---
 
 ## 🎯 How to Use
-
-1. Clone this repository or [open the live site](#) *(Add your GitHub Pages link later)*  
-2. Launch `index.html` in your browser  
+1. Clone this repository **or** [open the live site](https://akshitomar.github.io/MoodMate/)  
+2. If cloned, open `index.html` in your browser  
 3. Type your mood, excuse, or feeling (e.g. “I’m tired”, “happy”, “bored”)  
 4. Click **"Motivate Me ✨"**  
 5. Receive a powerful response, quote, and idea to take action 💬💪
+
 
 ---
 
