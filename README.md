@@ -67,7 +67,7 @@ It’s like a pocket-sized pep talk, ready anytime you need a push!
 
 ## 💖 Inspiration
 
-Built from real-life moments when motivation was hard to find — and a reminder that **you are more capable than you think.**
+Built from real-life moments when motivation was hard to find and a reminder that **you are more capable than you think.**
 
 ---
 
